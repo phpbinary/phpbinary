@@ -89,5 +89,4 @@ class UInt16Test extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals(0, $stream->readUInt16LE());
     }
-
 }

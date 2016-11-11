@@ -89,5 +89,4 @@ class Int32Test extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals(2147483647, $stream->readInt32LE());
     }
-
 }

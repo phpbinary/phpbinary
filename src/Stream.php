@@ -827,5 +827,4 @@ class Stream implements StreamInterface, ReaderInterface, WriterInterface
     {
         $this->writeUInt8($value);
     }
-
 }

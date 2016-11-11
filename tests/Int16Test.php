@@ -89,5 +89,4 @@ class Int16Test extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals(-32768, $stream->readInt16LE());
     }
-
 }
